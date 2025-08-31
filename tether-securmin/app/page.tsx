@@ -1,0 +1,1 @@
+export default function Page(){ return <h1 style={{padding:20}}>TETHER Secure: Yayında!</h1> }
